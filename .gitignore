@@ -3,7 +3,7 @@
 
 ### Flask ###
 instance/*
-!instance/.gitignore
+!instance/.gitignoreQ234569
 .webassets-cache
 .env
 
